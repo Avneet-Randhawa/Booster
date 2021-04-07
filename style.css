@@ -219,6 +219,13 @@ footer ul a:hover {
    padding-top: 10px;
     
  }
+  #lefft {
+   text-align: center;
+   margin: auto; 
+   padding-top: 10px;
+    float:left;
+    
+ }
   
  .footer-right {
    float: none;
