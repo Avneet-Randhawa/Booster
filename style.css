@@ -4,6 +4,10 @@ body {
   padding: 0;
   font-family: 'Roboto', sans-serif;
 }
+#left{
+  float: right;
+  font-size: 17px;
+}
 
 header {
   width: 100%;
@@ -219,13 +223,7 @@ footer ul a:hover {
    padding-top: 10px;
     
  }
-  #-left {
-   text-align: center;
-   margin: auto; 
-   padding-top: 10px;
-    float:right;
-    
- }
+
   
  .footer-right {
    float: none;
